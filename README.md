@@ -1,2 +1,3 @@
 # stadyd
 init
+init1
